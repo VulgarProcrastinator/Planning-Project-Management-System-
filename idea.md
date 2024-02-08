@@ -1,4 +1,4 @@
-Project Title: Worker Management System
+Project Title: Project Management System
 
 Objective:
 Develop a comprehensive Worker Management System to facilitate project management,
