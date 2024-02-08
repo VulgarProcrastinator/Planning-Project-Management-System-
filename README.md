@@ -1,1 +1,6 @@
-here will be our "todo" list
+todo:
+
+> wright functional requirements
+
+> make a use case diagram based on functional requirements
+
